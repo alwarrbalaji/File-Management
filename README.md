@@ -1,3 +1,4 @@
+
 # 📑 FILE MANAGER - DOCUMENTATION INDEX
 
 Welcome! This document index will guide you through getting the File Manager application up and running.
@@ -321,3 +322,4 @@ Everything is set up and documented. Pick a guide and get started:
 - 🔧 **What was fixed?** → [FIXES_APPLIED.md](FIXES_APPLIED.md)
 
 **Let's build! 🎉**
+
