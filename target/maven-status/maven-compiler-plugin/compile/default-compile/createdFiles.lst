@@ -1,0 +1,8 @@
+com\filemanager\config\CorsConfig.class
+com\filemanager\config\CorsConfig$1.class
+com\filemanager\FileManagerApiApplication.class
+com\filemanager\model\ApiResponse.class
+com\filemanager\controller\FileController.class
+com\filemanager\service\FileService.class
+com\filemanager\exception\GlobalExceptionHandler.class
+com\filemanager\model\FileResponse.class

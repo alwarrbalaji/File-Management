@@ -1,0 +1,37 @@
+name: flutter_file_manager
+description: A Flutter frontend for Spring Boot File Management REST API.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP client — best for multipart uploads & interceptors
+  dio: ^5.4.3+1
+
+  # Native Android file picker
+  file_picker: ^8.0.3
+
+  # Access Android directories for saving downloads
+  path_provider: ^2.1.3
+
+  # Format file sizes (bytes → KB/MB) and dates neatly
+  intl: ^0.19.0
+
+  # Show OS-level download progress notifications (optional but polished)
+  flutter_local_notifications: ^17.2.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # Add app icon assets here later if needed
+  # assets:
+  #   - assets/icons/
